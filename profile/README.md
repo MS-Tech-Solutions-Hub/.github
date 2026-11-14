@@ -1,6 +1,4 @@
 
-
-content = r
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:101014,35:211C20,70:704B49,100:C89B8B&text=MS-TECH&fontColor=FFF4EF&fontSize=64&fontAlignY=38&desc=IDEAS%20INTO%20DIGITAL%20REALITY&descSize=15&descAlignY=58&animation=fadeIn" />
