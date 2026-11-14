@@ -140,6 +140,4 @@ Have an idea, feedback, or a collaboration in mind? We'd be glad to hear from yo
 
 </div>
 """
-path = Path("/mnt/data/MS-Tech-Profile-README.md")
-path.write_text(content, encoding="utf-8")
-print(f"Created {path.name} ({path.stat().st_size} bytes)")
+
