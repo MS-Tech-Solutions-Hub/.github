@@ -1,142 +1,234 @@
 from pathlib import Path
 
-content = """<div align="center">
+content = r'''<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:171717,45:30242A,100:B98272&text=MS-TECH&fontColor=F8E9E4&fontSize=58&fontAlignY=38&desc=SOFTWARE%20%7C%20DIGITAL%20PRODUCTS%20%7C%20INNOVATION&descAlignY=58&descSize=13&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:101014,35:211C20,70:704B49,100:C89B8B&text=MS-TECH&fontColor=FFF4EF&fontSize=64&fontAlignY=38&desc=IDEAS%20INTO%20DIGITAL%20REALITY&descSize=15&descAlignY=58&animation=fadeIn" />
 
-<img src="https://img.shields.io/badge/BUILD-171717?style=for-the-badge&labelColor=171717&color=B98272" />
-<img src="https://img.shields.io/badge/DEVELOP-171717?style=for-the-badge&labelColor=171717&color=B98272" />
-<img src="https://img.shields.io/badge/INNOVATE-171717?style=for-the-badge&labelColor=171717&color=B98272" />
+<a href="https://github.com/MS-Tech-Solutions-Hub">
+  <img src="https://img.shields.io/badge/TECHNOLOGY%20STUDIO-171717?style=for-the-badge&labelColor=171717&color=C89B8B" />
+</a>
+<a href="mailto:mstechsolutionshub@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-C89B8B?style=for-the-badge&logo=gmail&logoColor=171717&labelColor=171717" />
+</a>
 
-### We turn ambitious ideas into useful digital experiences.
+### Engineering useful things for a more connected world.
 
-*An independent technology initiative focused on thoughtful engineering, practical software, and products that solve meaningful problems.*
+**We design, develop, and experiment with digital products that make everyday experiences better.**
 
-[Explore our repositories](https://github.com/orgs/MS-Tech-Solutions-Hub/repositories) · [Get in touch](mailto:mstechsolutionshub@gmail.com)
+[Explore Projects](#-the-workbench) · [Our Approach](#-how-we-work) · [Contact](#-start-a-conversation)
 
 </div>
 
 ---
 
-## ◈ The MS-Tech approach
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 01 / Think
-
-We start with the problem, understand the people affected, and question assumptions before choosing technology.
-
-</td>
-<td width="33%" valign="top">
-
-### 02 / Engineer
-
-We build with a focus on clarity, usability, maintainability, and responsible implementation.
-
-</td>
-<td width="33%" valign="top">
-
-### 03 / Improve
-
-We learn from real usage, refine the experience, and keep making the product better.
-
-</td>
-</tr>
-</table>
-
-## ◈ Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 Sutraa
-**Private communication**
-
-A messaging platform concept focused on private, controlled communication and a clean user experience.
-
-[↗ Source code](https://github.com/manass2268/Sutra) · [Live preview](https://sutraa-web.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 DocuMind
-**Learning, reimagined**
-
-A privacy-first learning assistant concept for turning study material into more accessible knowledge.
-
-[↗ Frontend repository](https://github.com/manass2268/documind-frontend) · [Live preview](https://documinds-ai.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💸 PennyDrop
-**Personal finance**
-
-A personal finance app concept designed to make income, expenses, and everyday money tracking easier to understand.
-
-[↗ Source code](https://github.com/manass2268/PennyDrop-App)
-
-</td>
-<td width="50%" valign="top">
-
-### ▶️ Streamify
-**Entertainment experience**
-
-A streaming-platform project exploring content discovery, viewing experiences, and modern product UI.
-
-[↗ Source code](https://github.com/manass2268/STREAMIFY) · [Live preview](https://streamify-app-ms.vercel.app/)
-
-</td>
-</tr>
-</table>
-
-<sub>Project descriptions reflect the current project direction; features and availability may evolve.</sub>
-
-## ◈ Our engineering toolkit
-
 <div align="center">
 
-![React](https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=B98272)
-![Vite](https://img.shields.io/badge/Vite-171717?style=flat-square&logo=vite&logoColor=B98272)
-![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=B98272)
-![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=B98272)
-![Node.js](https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=nodedotjs&logoColor=B98272)
-![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=B98272)
-![Kotlin](https://img.shields.io/badge/Kotlin-171717?style=flat-square&logo=kotlin&logoColor=B98272)
-![Firebase](https://img.shields.io/badge/Firebase-171717?style=flat-square&logo=firebase&logoColor=B98272)
-![MySQL](https://img.shields.io/badge/MySQL-171717?style=flat-square&logo=mysql&logoColor=B98272)
-![Git](https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=B98272)
+| **PURPOSE** | **CRAFT** | **PROGRESS** |
+|:---:|:---:|:---:|
+| Solve meaningful problems | Build with intention | Improve continuously |
 
 </div>
 
-## ◈ What matters to us
+## ◈ Beyond writing code
 
-- **Purpose before hype** — technology should earn its place by solving a real need.
-- **People before features** — useful, accessible experiences matter more than feature count.
-- **Privacy by design** — treat user data and trust as engineering responsibilities.
-- **Craft over shortcuts** — build thoughtfully, document clearly, improve continuously.
+MS-Tech is an independent technology initiative exploring software, digital products, and practical innovation. We bring ideas from concept to working experiences — with attention to usability, thoughtful engineering, and the people who use what we build.
 
-## ◈ Start a conversation
+We are interested in the *why* behind a product just as much as the *how* behind its implementation.
 
-Have an idea, feedback, or a collaboration in mind? We'd be glad to hear from you.
+---
+
+## ◈ The workbench
+
+*A selection of products and experiments.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>01 · SUTRAA</h3>
+
+**Private communication experience**
+
+A messaging platform concept exploring controlled access, privacy-conscious design, and a focused communication experience.
+
+<a href="https://sutraa-web.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20PROJECT-C89B8B?style=for-the-badge&labelColor=171717" /></a>
+<a href="https://github.com/manass2268/Sutra"><img src="https://img.shields.io/badge/SOURCE-171717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02 · DOCUMIND</h3>
+
+**A more useful way to learn**
+
+A privacy-first learning assistant concept that helps turn study material into structured, accessible knowledge.
+
+<a href="https://documinds-ai.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20PROJECT-C89B8B?style=for-the-badge&labelColor=171717" /></a>
+<a href="https://github.com/manass2268/documind-frontend"><img src="https://img.shields.io/badge/FRONTEND%20SOURCE-171717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>03 · PENNYDROP</h3>
+
+**Personal finance, made clearer**
+
+A personal finance app concept for tracking income, expenses, balances, and everyday money habits.
+
+<a href="https://github.com/manass2268/PennyDrop-App"><img src="https://img.shields.io/badge/EXPLORE%20SOURCE-C89B8B?style=for-the-badge&labelColor=171717" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04 · STREAMIFY</h3>
+
+**A modern entertainment experience**
+
+A streaming-platform project exploring content discovery, viewing experiences, and modern product interfaces.
+
+<a href="https://streamify-app-ms.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20PROJECT-C89B8B?style=for-the-badge&labelColor=171717" /></a>
+<a href="https://github.com/manass2268/STREAMIFY"><img src="https://img.shields.io/badge/SOURCE-171717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ How we work
 
 <div align="center">
 
-<a href="mailto:mstechsolutionshub@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20MS--TECH-B98272?style=for-the-badge&logo=gmail&logoColor=171717" /></a>
-<a href="https://github.com/MS-Tech-Solutions-Hub"><img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=F8E9E4" /></a>
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 01
+
+**DISCOVER**
+
+Understand the problem before choosing the solution.
+
+</td>
+<td align="center" width="25%">
+
+### 02
+
+**DESIGN**
+
+Shape a clear, useful experience around real needs.
+
+</td>
+<td align="center" width="25%">
+
+### 03
+
+**DEVELOP**
+
+Turn the idea into maintainable, working software.
+
+</td>
+<td align="center" width="25%">
+
+### 04
+
+**REFINE**
+
+Test, learn, and make the experience better.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## ◈ Technology landscape
+
+*Tools are chosen to fit the problem — not the other way around.*
+
+<div align="center">
+
+**FRONTEND**
+
+![React](https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=C89B8B)
+![Vite](https://img.shields.io/badge/Vite-171717?style=flat-square&logo=vite&logoColor=C89B8B)
+![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=C89B8B)
+![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=C89B8B)
+![HTML5](https://img.shields.io/badge/HTML5-171717?style=flat-square&logo=html5&logoColor=C89B8B)
+![CSS3](https://img.shields.io/badge/CSS3-171717?style=flat-square&logo=css3&logoColor=C89B8B)
+
+**BACKEND & DATA**
+
+![Node.js](https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=nodedotjs&logoColor=C89B8B)
+![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=C89B8B)
+![Firebase](https://img.shields.io/badge/Firebase-171717?style=flat-square&logo=firebase&logoColor=C89B8B)
+![MySQL](https://img.shields.io/badge/MySQL-171717?style=flat-square&logo=mysql&logoColor=C89B8B)
+
+**MOBILE & WORKFLOW**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-171717?style=flat-square&logo=kotlin&logoColor=C89B8B)
+![Git](https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=C89B8B)
+![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=C89B8B)
+
+</div>
+
+---
+
+## ◈ Principles we build by
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 — Purpose over hype**
+
+A technology choice should solve a real problem, not just follow a trend.
+
+**02 — Clarity over complexity**
+
+Good software should feel understandable, dependable, and approachable.
+
+</td>
+<td width="50%" valign="top">
+
+**03 — Privacy as a responsibility**
+
+Trust, security, and thoughtful data handling belong in the design from the beginning.
+
+**04 — Progress over perfection**
+
+Ship thoughtfully, listen carefully, and keep improving.
+
+</td>
+</tr>
+</table>
+
+## ◈ Collaborate with MS-Tech
+
+Have a meaningful problem to solve, an idea worth exploring, or feedback on one of our projects?
+
+<div align="center">
+
+<a href="mailto:mstechsolutionshub@gmail.com">
+<img src="https://img.shields.io/badge/START%20A%20CONVERSATION-C89B8B?style=for-the-badge&logo=gmail&logoColor=171717&labelColor=171717" />
+</a>
 
 **mstechsolutionshub@gmail.com**
 
-<sub>BUILD WITH PURPOSE · DEVELOP WITH CARE · INNOVATE WITH INTENT</sub>
+[GitHub Organization](https://github.com/MS-Tech-Solutions-Hub)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:171717,100:B98272" width="100%" />
+<br/>
 
-© MS-Tech Solutions
+*BUILD WITH PURPOSE · DEVELOP WITH CARE · INNOVATE WITH INTENT*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:101014,45:302326,100:C89B8B" />
+
+<sub>© MS-Tech Solutions · Independent technology initiative</sub>
 
 </div>
-
+'''
+path = Path("/mnt/data/MS-Tech-Profile-README-ULTIMATE.md")
+path.write_text(content, encoding="utf-8")
+print(f"Created: {path} | {path.stat().st_size:,} bytes")
