@@ -139,5 +139,4 @@ Have an idea, feedback, or a collaboration in mind? We'd be glad to hear from yo
 © MS-Tech Solutions
 
 </div>
-"""
 
